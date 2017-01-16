@@ -1,6 +1,3 @@
 ###**First Android App**###
 
-Learing
-
-
 
